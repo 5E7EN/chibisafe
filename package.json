@@ -106,7 +106,6 @@
 		"nodemon": "^1.19.3",
 		"postcss-css-variables": "^0.11.0",
 		"postcss-nested": "^3.0.0",
-		"puppeteer": "^5.5.0",
 		"sass-loader": "^10.1.0",
 		"vue-jest": "^3.0.7"
 	},
